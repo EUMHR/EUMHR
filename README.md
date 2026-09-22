@@ -28,5 +28,5 @@
 ### 📫 Reach Me
 
 <p align="center">
-  <a href="https://discord.com/users/yourid"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/1550652531246370830"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 </p>

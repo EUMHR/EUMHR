@@ -22,7 +22,7 @@
 
 ### 🚀 Featured Projects
 
-- **[Developer @ BedTiers](https://github.com/bediers) —  A Tier Testing Community
+- [**Developer @ BedTiers**](https://github.com/bediers) —  A Tier Testing Community
 
 
 ### 📫 Reach Me

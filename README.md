@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=9900EF&background=7B7B7B00&center=true&width=435&lines=Hi+I+Am+M+H+R+A.K.A+EUMHR!;Discord+Bot+Deleloper!;Minecraft+Plugin+Deleloper!)](https://git.io/typing-svg)
+<center> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=9900EF&background=7B7B7B00&center=true&width=435&lines=Hi+I+Am+M+H+R+A.K.A+EUMHR!;Discord+Bot+Deleloper!;Minecraft+Plugin+Deleloper!)](https://git.io/typing-svg)
 <p align="center">
   Building things for the Minecraft & Discord community.
 </p>

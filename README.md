@@ -10,7 +10,7 @@
 
 -  **Minecraft Plugin Development** — Java (Spigot/Paper/Bukkit)
 -  **Discord Bots** — Node.js (discord.js) & Python (discord.py)
--  Always tinkering with something new in these ecosystems
+-  Always thinking with something new in these ecosystems.
 
 ### 💻 Coding languages I Use
 
@@ -22,7 +22,7 @@
 
 ### 🚀 Featured Projects
 
-- [**Developer @ BedTiers**](https://github.com/bediers) —  A Tier Testing Community
+- [**Developer @ BedTiers**](https://github.com/bediers) —  A Tier Testing Community.
 
 
 ### 📫 Reach Me

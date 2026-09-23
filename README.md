@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=1200&color=9900EF&center=false&vCenter=true&width=560&lines=Hi%2C+I+am+MHR+aka+EUMHR!;Discord+Bot+Developer;Minecraft+Plugin+Developer" alt="typing header" />
 
-[![EUMHR](https://img.shields.io/badge/EUMHR-9900EF?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME) [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=9900EF&style=flat-square&label=views)](https://github.com/EUMHR)
+[![EUMHR](https://img.shields.io/badge/EUMHR-9900EF?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME) [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=9900EF&style=flat-square&label=views)](https://github.com/isy4o)
 <br/>
 
 Developer building things for the Minecraft and Discord communities. I write plugins, bots, and the tools around them, and I'm always looking for something new to try in these ecosystems.

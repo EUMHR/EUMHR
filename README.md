@@ -14,7 +14,7 @@ I enjoy taking an idea, turning it into something that actually works, and impro
 
 **Discord Bots** → bots written in Node.js (discord.js) and Python (discord.py).
 
-**System Administrator** → running and managing game servers through  Pterodactyl panel.
+**System Administrator** → running and managing game servers through Pterodactyl panel.
 
 **C++** → just getting started, learning by building.
 <br/>
@@ -35,8 +35,8 @@ I enjoy taking an idea, turning it into something that actually works, and impro
 
 ### Minecraft
 ![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat-square&logo=spigotmc&logoColor=white)
-![Paper](https://img.shields.io/badge/Paper-444444?style=flat-square&logo=papermc&logoColor=white)
-![Bukkit](https://img.shields.io/badge/Bukkit-F5A623?style=flat-square&logoColor=white)
+<img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="20" alt="PaperMC logo" /> ![Paper](https://img.shields.io/badge/Paper-444444?style=flat-square&logoColor=white)
+🪣 ![Bukkit](https://img.shields.io/badge/Bukkit-F5A623?style=flat-square&logoColor=white)
 
 </td>
 <td valign="top" width="33%">

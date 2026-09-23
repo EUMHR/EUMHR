@@ -1,31 +1,59 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=9900EF&background=7B7B7B00&center=true&width=435&lines=Hi+I+Am+M+H+R+A.K.A+EUMHR!;Discord+Bot+Deleloper!;Minecraft+Plugin+Deleloper!)](https://git.io/typing-svg)
-<p align="center">
-  Building things for the Minecraft & Discord community.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=1200&color=9900EF&center=false&vCenter=true&width=560&lines=Hi%2C+I+am+MHR+aka+EUMHR!;Discord+Bot+Developer;Minecraft+Plugin+Developer" alt="typing header" />
 
----
+[![EUMHR](https://img.shields.io/badge/EUMHR-9900EF?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME) [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=9900EF&style=flat-square&label=views)](https://github.com/YOUR_USERNAME)
+<br/>
 
-### 🛠️ What I Do
+Developer building things for the Minecraft and Discord communities. I write plugins, bots, and the tools around them, and I'm always looking for something new to try in these ecosystems.
 
--  **Minecraft Plugin Development** — Java (Spigot/Paper/Bukkit)
--  **Discord Bots** — Node.js (discord.js) & Python (discord.py)
--  Always thinking with something new in these ecosystems.
+I enjoy taking an idea, turning it into something that actually works, and improving it as I go.
+<br/>
 
-### 💻 Coding languages I Use
+## 🛠️ • What I Do:
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+**Minecraft Plugin Development** → Java plugins for Spigot, Paper and Bukkit servers.
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) [discord.js] 
+**Discord Bots** → bots written in Node.js (discord.js) and Python (discord.py).
+<br/>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) [discord.py]
+## 💻 • Technologies & Skills:
+<table width="100%">
+<tr>
+<td valign="top" width="34%">
 
-### 🚀 Featured Projects
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- [**Developer @ BedTiers**](https://github.com/bediers) —  A Tier Testing Community.
+</td>
+<td valign="top" width="33%">
 
+### Minecraft
+![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat-square&logo=spigotmc&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper-444444?style=flat-square&logo=papermc&logoColor=white)
+![Bukkit](https://img.shields.io/badge/Bukkit-F5A623?style=flat-square&logoColor=white)
 
-### 📫 Reach Me
+</td>
+<td valign="top" width="33%">
 
-<p align="center">
-  <a href="https://discord.com/users/1550652531246370830"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
-</p>
+### Discord
+![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+</td>
+</tr>
+</table>
+<br/>
+
+## 🚀 • Featured Projects:
+### 🏆 ¦ Developer @ [BedTiers](https://github.com/bediers)
+A tier testing community.
+
+<br/>
+
+## 📫 • Reach Me:
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1550652531246370830)
+
+<br/>
+
+<sub>Always thinking about the next plugin or bot. 🛠️</sub>

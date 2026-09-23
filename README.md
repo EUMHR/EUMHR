@@ -76,5 +76,3 @@ A tier testing community.
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1550652531246370830)
 
 <br/>
-
-<sub>Always thinking about the next plugin or bot. 🛠️</sub>

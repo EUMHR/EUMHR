@@ -14,7 +14,7 @@ I enjoy taking an idea, turning it into something that actually works, and impro
 
 **Discord Bots** → bots written in Node.js (discord.js) and Python (discord.py).
 
-**System Administrator** → running and managing game servers through Pterodactyl panel.
+**System Administrator** → running and managing game servers through [Pterodactyl](https://pterodactyl.io) panel.
 
 **C++** → just getting started, learning by building.
 <br/>
@@ -25,25 +25,25 @@ I enjoy taking an idea, turning it into something that actually works, and impro
 <td valign="top" width="34%">
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B_(Beginner)-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![C++](https://img.shields.io/badge/C%2B%2B_(Beginner)-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org)
 
 </td>
 <td valign="top" width="33%">
 
 ### Minecraft
-![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat-square&logo=spigotmc&logoColor=white)
-<img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="20" alt="PaperMC logo" /> ![Paper](https://img.shields.io/badge/Paper-444444?style=flat-square&logoColor=white)
-🪣 ![Bukkit](https://img.shields.io/badge/Bukkit-F5A623?style=flat-square&logoColor=white)
+[![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat-square&logo=spigotmc&logoColor=white)](https://www.spigotmc.org)
+[<img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="20" alt="PaperMC logo" />](https://papermc.io) [![Paper](https://img.shields.io/badge/Paper-444444?style=flat-square&logoColor=white)](https://papermc.io)
+[<img src="https://raw.githubusercontent.com/selfhst/icons/main/png/bukkit.png" height="20" alt="Bukkit logo" />](https://bukkit.org) [![Bukkit](https://img.shields.io/badge/Bukkit-F5A623?style=flat-square&logoColor=white)](https://bukkit.org)
 
 </td>
 <td valign="top" width="33%">
 
 ### Discord
-![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+[![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org)
+[![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordpy.readthedocs.io)
 
 </td>
 </tr>
@@ -51,15 +51,15 @@ I enjoy taking an idea, turning it into something that actually works, and impro
 <td valign="top" width="34%">
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
 
 </td>
 <td valign="top" width="33%">
 
 ### Tools
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
 
 </td>
 </tr>

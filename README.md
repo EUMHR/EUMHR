@@ -62,13 +62,6 @@ I enjoy taking an idea, turning it into something that actually works, and impro
 ![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
-
-### System Admin
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl_Panel-0E4688?style=flat-square&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-</td>
 </tr>
 </table>
 <br/>
